@@ -1,0 +1,1 @@
+{"jobID":"61392cdb-ec5b-81d5-33df-25aeb3dca8ca","spec":{"type":"policy","cause":{"Message":"","User":"Leo Duran \u003cleoduran@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.2.*"},"remove":{}}}},"result":null}
